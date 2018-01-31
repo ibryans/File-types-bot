@@ -1,0 +1,62 @@
+TXT
+É um arquivo texto ou texto puro como é mais conhecido. Arquivos dos Word também são textos, mas ele gera um texto com formatação. O TXT é um formato que indica um texto sem formatação, podendo ser aberto ou criado no Bloco de Notas do Windows, por exemplo.
+
+EXE
+EXE é um tipo de arquivo usado no Windows para designar um aplicativo ou um programa executável. Ele pode ser o programa responsável pela instalação de um software, como pode ser o aplicativo principal do próprio software.
+
+DLL
+Também conhecida como biblioteca de vínculo dinâmico, é um arquivo que é usada geralmente junto como EXE como parte complementar de um software.
+
+ZIP
+Indica um arquivo compactado com outros arquivos ou pastas. É muito usado quando necessitamos enviar para outros locais uma grande quantidade de conteúdo ou pastas, então para diminuir o tamanho e facilitar o processo usa-se a compactação. O RAR é outro formato compactado bastante conhecido também.
+
+PDF
+O formato de arquivo PDF é um padrão da Adobe, a mesma empresa que é proprietária do Photoshop, Ilustrator, Flash, Fireworks e outros softwares gráficos. Como arquivo o PDF tem como principal característica o fato de ele ser fechado, isto é, não permitir mudanças no conteúdo gravado. Isto torna o formato bastante desejado para documentos, redação, comunicados e outros textos que precisam manter-se íntegros
+
+DOC e DOCX
+O formato de arquivos DOC é de propriedade da Microsoft e usado no Microsoft Word como padrão na gravação de arquivos textos. As versões mais recentes do Word incorporaram a extensão DOCX como evolução do DOC, isto aconteceu a partir da versão 2007 do Microsoft Word.
+
+PPT e PPS
+O formato PPT faz parte também do Microsoft Office e é usado no Power Point como padrão dos arquivos de apresentação que ele gera. Para gravar e ler um arquivo PPT é necessário ter o Power Point instalado e no caso do arquivo PPTX é necessário a versão 2007 ou superior.
+
+XLS e XLSX
+Este tipo de arquivo é usado pelo Excel para criar e editar planilhas. O XLS foi usado até a versão 2003, a partir da versão 2007 passou a usar o formato XLSX
+
+JPG
+É basicamente o principal formato de arquivos de imagens digitais atualmente. Além do computador, este tipo de arquivo é usado também nas câmeras digitais ou telefones com recurso de câmera. Ao tirar uma foto, o JPG geralmente é o formato que eles usam para gravar o arquivo.
+
+GIF e PNG
+São formatos de imagens muito usadas na internet. O ponto forte é que esses tipos de arquivos suportam transparência, permitindo a sobreposição sobre outras imagens ou fundos coloridos.
+
+HTML
+Essa extensão, assim como HTM ou outras similares são usadas  para indicar um arquivo de códigos da linguagem HTML, principal tecnologia para criação de sites.
+
+MP3, WAV, MID
+São formatos de arquivos de áudio. MID e WAV já foram muito usados, mas recentemente com o surgimento do MP3, este último acabou se tornando um modelo mais atraente já que consegue uma compactação muito grande reduzindo o tamanho do arquivo sem grandes perdas de qualidade.
+
+AVI, MPG, WMV e MOV
+São arquivos de vídeos. WMV, por exemplo, é o formato padrão do Windows Media Player, mas outros também são bastante populares.
+
+PSD. Usado pelo Photoshop
+
+CDR. Usado pelo Corel Draw
+
+AI. Principal formato no Ilustrator
+
+XML. Arquivo de texto da linguagem XML para documentos em internet
+
+CSS. Tecnologia para formatação de documentos HTML
+
+JS. Arquivos da linguagem Javascript para páginas de sites
+
+PHP, ASP, ASPX, JSP, CFM. Tecnologias empregadas na internet para criação de páginas dinâmicas.
+
+SVG. Novo formato de imagens para a internet.
+
+TIF. Arquivo de imagem que pode ser manipulado em alguns editores de imagens.
+
+FLA e SWF. São arquivos criados pelo Adobe Flash. O primeiro é o original e editável, o segundo é criado como trabalho finalizado e, portanto utilizável na internet, por exemplo.
+
+DWG. Extensão de arquivos do Autocad.
+
+SQL. Contém códigos da linguagem SQL usada na administração de banco de dados relacionais.
