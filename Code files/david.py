@@ -7,7 +7,6 @@ bot = telebot.TeleBot('440679971:AAFCLsXigp-xzUw-aHsuzzjp9RuZkxIAnlc')
 
 
 # Comando Start Ou Help
-
 @bot.message_handler(commands=['start','help'])
 
 def show_help(message):
@@ -20,19 +19,18 @@ def show_help(message):
 
 
 # Responde "oi"
-
 @bot.message_handler(func=lambda message: message.text == "Oi")
 def responde_oi(message):
     bot.send_message(message.chat.id, "Fala mano, do que você precisa hoje?")
 
+    
 # Responde "E ai David"
-
 @bot.message_handler(func=lambda message: message.text == "E ai David")
 def responde_eai(message):
     bot.send_message(message.chat.id, "Fala brother")
 
+    
 # Verifica se é uma pergunta
-
 def is_pergunta(message):
     for c in message.text:
         if c == "?":
@@ -41,26 +39,28 @@ def is_pergunta(message):
 
 
 # Responde um áudio
+# @bot.message_handler(func=lambda message: True, content_types=['audio'])
+# def command_default(message):
+#     bot.send_message(message.chat.id, "Eu sou um programa brother, cê acha que eu vou ficar ouindo áudio? Facilita minha vida, só me manda o tipo do arquivo (.xxxx)")
 
-@bot.message_handler(func=lambda message: True, content_types=['audio'])
-def command_default(message):
-    bot.send_message(message.chat.id, "Eu sou um programa brother, cê acha que eu vou ficar ouindo áudio? Facilita minha vida, só me manda o tipo do arquivo (.xxxx)")
 
 # Responde uma pergunta
-
 @bot.message_handler(func=is_pergunta)
 def responde_pergunta(message):
     bot.reply_to(message, "Sei lá cara, eu só sei reconhecer tipos de arquivos hehe")
 
+    
+####################################
 
-####################################3
 
-
-##### Tipos de arquivos ###########
+######## Tipos de arquivos #########
 
 @bot.message_handler(func=lambda msg: msg.text == ".txt")
 def arquivo_txt(msg):
     bot.reply_to(msg, "O TXT é um arquivo texto ou texto puro como é mais conhecido. Ele é um formato que indica um texto sem formatação, podendo ser aberto ou criado no Bloco de Notas do Windows, por exemplo.")
+
+    
+####################################
 
 
 # Qualquer outra coisa que a pessoa falar
